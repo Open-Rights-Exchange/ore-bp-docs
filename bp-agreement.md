@@ -40,7 +40,7 @@ I, {{producer}}, agree to maintain a website hosted at {{url}} which contains up
 
 I, {{producer}}, agree to set {{location}} such that {{producer}} is scheduled with minimal latency between my previous and next peer.
 
-I, {{producer}}, agree to maintain time synchronization within 10 ms of global atomic clock time, using [Network Time Protocol](https://www.ietf.org/rfc/rfc5905.txt)
+I, {{producer}}, agree to maintain time synchronization within 10 ms of global atomic clock time, using Network Time Protocol (https://www.ietf.org/rfc/rfc5905.txt)
 
 I, {{producer}}, agree not to produce blocks before my scheduled time unless I have received all blocks produced by the prior producer.
 

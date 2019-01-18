@@ -23,8 +23,8 @@ ORE Block producers agree to run a few additional off-chain 'Oracle' services in
 ## Technical Requirements
 
 [ORE Block Producer Technical Requirements](./bp-technical.md) - 
-ORE Block Producers should run a minimum hardware configuraiton and launch thier chain using the provided configuration and Genesis file
+ORE Block Producers should run a minimum hardware configuration and launch their chain using the provided configuration and Genesis file(s)
 
 ## Apply to become a Block Producer
 
-For now, AIKON will be screening all BP candidates to ensure that we strike the right balance between professionalism, decentralization and security. If you haven’t yet been pre-approved as a BP please fill out this form to apply: [ORE Block Producer Request Form](https://aikon.typeform.com/to/MCi6j2)
+For now, AIKON will be screening all BP candidates to ensure that we strike the right balance between professionalism, decentralization, and security. If you haven’t yet been pre-approved as a BP please fill out this form to apply: [ORE Block Producer Request Form](https://aikon.typeform.com/to/MCi6j2)
