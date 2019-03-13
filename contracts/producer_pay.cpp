@@ -93,7 +93,7 @@ namespace eosiosystem {
 
       const auto ct = current_time_point();
 
-      eosio_assert( ct - prod.last_claim_time > microseconds(0), "already claimed rewards within past day" );
+      eosio_assert( ct - prod.last_claim_time > microseconds(useconds_per_day), "already claimed rewards within past day" );
 
       const asset token_supply   = eosio::token::get_supply(token_account, core_symbol().code() );
       const auto usecs_since_last_fill = (ct - _gstate.last_pervote_bucket_fill).count();
