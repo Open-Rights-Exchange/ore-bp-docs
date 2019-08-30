@@ -1,0 +1,8 @@
+# List of recommended P2P peers for ORE chain nodes
+# Always a work in progress. Please send any additions/corrections to @Blockpusher on Telegram.
+p2p-peer-address = ore-seed1.openrights.exchange:9876
+p2p-peer-address = ore-seed2.openrights.exchange:9876
+p2p-peer-address = peer.ore.alohaeos.com:9876
+p2p-peer-address = peer1-ore.eosphere.io:9876
+p2p-peer-address = ore.csx.io:9876
+p2p-peer-address = peer.ore-mainnet.eosblocksmith.io:5060
