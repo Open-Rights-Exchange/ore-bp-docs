@@ -118,7 +118,7 @@ sync-fetch-span = 200
 max-implicit-request = 1500
 
 # Enable block production, even if the chain is stale. (eosio::producer_plugin)
-enable-stale-production = true
+enable-stale-production = false
 
 # Start this node in a state where production is paused (eosio::producer_plugin)
 pause-on-startup = false
