@@ -31,8 +31,8 @@ Guidance on techniques found useful by block producers is available from a diver
 - [Basic insights](https://eosuk.io/2018/05/17/eos-block-producer-security-done-right)
 - [More detailed insights](https://medium.com/eostribe/eos-bp-security-statement-e8cbf0df72db)
 - [Audit guidelines](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit-en.md)
-- [EOS Detroit](https://eosdetroit.io/company/infrastructure)
-- [EOS Canada](https://steemit.com/eos/@eos-canada/introducing-eos-canada--a-leading-block-producer-candidate)
+- [EOS Detroit](https://eosdetroit.io/block-producer/infrastructure)
+- [EOS Canada](https://www.eoscanada.com/en/introducing-eos-canada-a-leading-block-producer-candidate#:~:text=We%20are%20pleased%20to%20officially,by%20reputable%20Canadian%20financial%20players.)
 
 Many other mainnet block producers maintain descriptions of their approaches to security
 
