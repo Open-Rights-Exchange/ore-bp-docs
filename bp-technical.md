@@ -10,6 +10,12 @@ Thanks for becoming a Block Producer on the Open Rights Exchange (ORE) Blockchai
 - Give us your public key & desired account name. We recommend using the same account name that you use on the EOS main net.
 - Once you’ve done that we will create your account and select you as a Block Producer.
 
+### Current EOSIO versions and tips
+
+- Various versions of the EOSIO code going back to 1.8.x will work successfully, but we recommend keeping up to date with the current fully released version of the EOSIO code.
+- To reduce the occurrence of forks in the chain, it is generally helpful to expedite your final block to be produced in each round by using the config.ini directive `last-block-time-offset-us = -400000`
+- We have observed that the chain runs best when all block producers use ntp or chrony to keep their system time well synchronized.
+
 ### Server Specifications
 
 We expect all BPs to maintain a minimum level of CPU and RAM as needed by the ORE Blockchain. 
