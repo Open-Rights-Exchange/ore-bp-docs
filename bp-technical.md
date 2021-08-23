@@ -42,3 +42,7 @@ Guidance on techniques found useful by block producers is available from a diver
 
 Many other mainnet block producers maintain descriptions of their approaches to security
 
+### Snapshots
+
+AIKON publishes [EOSIO deterministic snapshots](https://aikon-ore-snaps.s3.us-west-2.amazonaws.com/list.html?sort=lastmod&sortdir=desc) of the production ORE chain that can be helpful in speeding the sync required for nodes to be added to the chain.
+
